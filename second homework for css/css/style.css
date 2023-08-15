@@ -1,0 +1,62 @@
+.search-zone
+{
+    text-align:center;
+    width:89.8%;
+    margin-left: 72px;
+    background-color: #EEEEEE
+}
+
+.first-box
+{
+    margin-top: 2px;
+    float: left;
+    text-align: center;
+    margin-left: 72px;
+    width:33.2%;
+    background-color:#7EE5DA
+}
+
+.first-box-text
+{
+    margin-top: 10px;
+}
+
+.second-box
+{
+    font-size: small;
+    margin-top: 2px;
+    float: left;
+    margin-left: 2px;
+    text-align:center;
+    width:17.9%;
+    left: auto;
+    background-color:#70CCC2
+}
+
+.second-box-text
+{
+    margin-top: 5px;
+}
+
+.third-box
+{
+    font-size: small;
+    margin-top: 2px;
+    margin-left: 2px;
+    float:left;
+    text-align:center;
+    width:38.4%;
+    left: auto;
+    background-color:#62B3AA
+}
+
+.all-box
+{
+    display:flex;
+}
+
+.copyright
+{
+    text-align: center;
+    font-size: small;
+}
